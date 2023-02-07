@@ -1,0 +1,22 @@
+
+.titulo-fundacao {
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: var(--poppins);
+    font-weight: 500;
+}
+
+.paragrafo-fundacao {
+    padding: 10px;
+    text-align: justify;
+    font-family: var(--poppins);
+    margin: 0.5em;
+}
+
+.imagem-fundador {
+    float: right;
+    padding: 0.8em;
+    
+}
+

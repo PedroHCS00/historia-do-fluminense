@@ -1,0 +1,35 @@
+.titulo-historia {
+    font-family: var(--poppins);
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 2.5em;
+}
+
+.paragrafo-historia {
+    font-family: var(--poppins);
+    text-align: justify;
+    padding: 10px;
+    margin: 0.5em;
+}
+
+.secao-escudos {
+    font-family: var(--poppins);
+}
+
+.titulo-escudos {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.paragrafo-escudos {
+    text-align: center;
+}
+
+.imagem-escudos {
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+}

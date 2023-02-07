@@ -1,0 +1,39 @@
+.secao-idolos {
+    margin-top: 5em;
+    font-family: var(--poppins);
+}
+
+.titulo-idolos {
+    text-align: center;
+    margin: 1em;
+    font-size: 30px;
+}
+
+.divisao-idolos {
+    display: flex;
+}
+
+.lista-idolos {
+    display: flex;
+}
+
+.item-idolos {
+    padding: 30px;
+    justify-content: center;
+}
+
+.imagem-idolos {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.nome-idolo {
+    text-align: center;
+    padding: 15px;
+}
+
+.descricao-idolo {
+    text-align: center;
+    padding: 9px;
+}

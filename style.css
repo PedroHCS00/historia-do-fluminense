@@ -1,0 +1,17 @@
+@import url(header.css);
+@import url(fundacao.css);
+@import url(historia.css);
+@import url(escudos.css);
+@import url(titulos.css);
+@import url(idolos.css);
+
+:root {
+    --grena: #870a28;
+    --poppins: 'Poppins', sans-serif;
+
+}
+
+
+
+
+ 

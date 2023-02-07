@@ -1,0 +1,43 @@
+.cabecalho {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    background-color: #00613c;
+    background-image: none;
+    border-bottom: 1px solid black;
+}
+
+.imagem-cabecalho {
+    padding: 20px;
+    width: 80px;
+}
+
+.lista {
+    display: flex;
+    margin-left: 4em;
+    font-family: var(--poppins);
+}
+
+.lista-item {
+    margin-top: 1em;
+    padding: 25px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.lista-link {
+    text-decoration: none;
+    color: var(--grena);
+}
+
+.lista-item:hover {
+    font-size: 23px;
+    transition: 0.5s;
+}
+
+main {
+    position: relative;
+    top: 180px;
+}

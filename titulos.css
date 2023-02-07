@@ -1,0 +1,56 @@
+.secao-titulos {
+    font-family: var(--poppins);
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    margin: 0.2em auto;
+    width: 75%;
+    column-gap: 50px;
+    opacity: 0;
+    transition: opacity 1.5s ease-in;
+}
+
+.secao-titulos.fade {
+    opacity: 1;
+   
+}
+
+.divisao-titulos {
+    grid-template-columns: 1fr 1fr;
+}
+
+.titulo-titulos {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.lista-titulos {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.item-titulos {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.divisao-honrarias {
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.titulo-honrarias {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.lista-honrarias {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.item-honrarias {
+    padding: 10px;
+    border: 2px solid black;
+}
